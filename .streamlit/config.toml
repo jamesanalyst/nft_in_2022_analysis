@@ -1,4 +1,6 @@
-streamlit
-pandas 
-requests
-plotly
+[theme]
+primaryColor="#F63366"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#FFFFFF"
+textColor="#262730"
+font="sans serif"
